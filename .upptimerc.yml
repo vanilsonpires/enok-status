@@ -3,15 +3,16 @@ owner: vanilsonpires # Your GitHub organization or username, where this reposito
 repo: enok-status # The name of this repository
 
 sites:
-  - name: Frontend (app)
+  - name: Webpages
     url: https://enok.techfivex.pt/
-  - name: Gateway API
+  - name: Gateway Service
     url: https://enok.techfivex.pt/api/actuator/health
   - name: Account Service
     url: https://account.techfivex.pt/
-  - name: Notificações
+  - name: Notification Service
     url: https://sync.techfivex.pt/
-  - name: Enok Service (IA)
+    icon: https://icons.duckduckgo.com/ip3/enok.techfivex.pt.ico
+  - name: Enok Service
     url: https://enok.techfivex.pt/api/enok-service/actuator/health
   - name: Chat Service
     url: https://enok.techfivex.pt/api/chat-service/actuator/health
@@ -29,9 +30,10 @@ sites:
 status-website:
   cname: status.enok.techfivex.pt
   logoUrl: https://raw.githubusercontent.com/vanilsonpires/enok-status/master/assets/logo.png
+  favicon: https://raw.githubusercontent.com/vanilsonpires/enok-status/master/assets/favicon.png
   name: ENOK Status
   introTitle: "**ENOK** — status da plataforma em tempo real"
-  introMessage: Acompanhe a disponibilidade do ENOK e de todos os seus módulos. Dados atualizados automaticamente via GitHub Actions, sem servidor próprio.
+  introMessage: Acompanhe a disponibilidade da plataforma ENOK e de todos os seus módulos em tempo real.
   theme: dark
   themeUrl: https://raw.githubusercontent.com/vanilsonpires/enok-status/master/assets/enok-theme.css
   navbar:
@@ -39,6 +41,11 @@ status-website:
       href: /
     - title: ENOK
       href: https://enok.techfivex.pt
+
+i18n:
+  footer: "© ENOK. Todos os direitos reservados."
+  incidentViewOnGitHub: Ver detalhes do incidente
+  navGitHub: Site
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
