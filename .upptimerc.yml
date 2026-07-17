@@ -7,9 +7,9 @@ sites:
     url: https://enok.techfivex.pt/
   - name: Gateway API
     url: https://enok.techfivex.pt/api/actuator/health
-  - name: Keycloak (SSO)
+  - name: Account Service
     url: https://account.techfivex.pt/
-  - name: Novu (Notificações)
+  - name: Notificações
     url: https://sync.techfivex.pt/
   - name: Enok Service (IA)
     url: https://enok.techfivex.pt/api/enok-service/actuator/health
