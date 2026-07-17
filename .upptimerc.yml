@@ -9,6 +9,7 @@ sites:
     url: https://enok.techfivex.pt/api/actuator/health
   - name: Account Service
     url: https://account.techfivex.pt/
+    icon: https://icons.duckduckgo.com/ip3/enok.techfivex.pt.ico
   - name: Notification Service
     url: https://sync.techfivex.pt/
     icon: https://icons.duckduckgo.com/ip3/enok.techfivex.pt.ico
