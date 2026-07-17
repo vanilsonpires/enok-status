@@ -47,6 +47,18 @@ i18n:
   footer: "© ENOK. Todos os direitos reservados."
   incidentViewOnGitHub: Ver detalhes do incidente
   navGitHub: Site
+  rateLimitExceededTitle: Muitas solicitações
+  rateLimitExceededIntro: Você excedeu o número de solicitações permitidas nesta última hora. Aguarde alguns minutos e tente novamente.
+  rateLimitExceededWhatDoesErrorMean: O que isso significa?
+  rateLimitExceededErrorMeaning: Esta página consulta dados em tempo real sobre o status dos nossos serviços. Por segurança, há um limite de solicitações por hora para cada endereço de IP.
+  rateLimitExceededErrorHowCanFix: Como resolver?
+  rateLimitExceededErrorFix: Você pode aguardar até o limite ser renovado, ou informar uma chave de acesso para aumentar o limite de solicitações.
+  rateLimitExceededGeneratePAT: Saiba como gerar uma chave de acesso
+  rateLimitExceededHasSet: Você já configurou uma chave de acesso.
+  rateLimitExceededRemoveToken: Remover chave
+  rateLimitExceededGitHubPAT: Chave de acesso
+  rateLimitExceededCopyPastePAT: Cole sua chave de acesso
+  rateLimitExceededSaveToken: Salvar chave
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
