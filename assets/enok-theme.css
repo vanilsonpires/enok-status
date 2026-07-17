@@ -1,0 +1,27 @@
+/* ENOK / TechFivex status page theme — brand colors from frontend/globals.css */
+:root {
+  --body-background-color: #000038; /* brand-navy */
+  --body-text-color: #ffffff; /* brand-white */
+  --card-background-color: #35384f; /* brand-nickel */
+  --nav-background-color: #000038; /* brand-navy */
+  --nav-border-bottom-color: #00b0ff; /* brand-blue */
+  --nav-current-border-bottom-color: #00b0ff; /* brand-blue */
+  --card-border-color: #35384f; /* brand-nickel */
+  --down-border-left-color: #eb3b5a;
+  --down-background-color: #4a1220;
+  --degraded-border-left-color: #f7b731;
+  --up-border-left-color: #20bf6b;
+  --tag-color: #000038;
+  --tag-up-background-color: #20bf6b;
+  --tag-down-background-color: #eb3b5a;
+  --tag-degraded-background-color: #f7b731;
+  --change-background-color: #00b0ff;
+  --error-button-border-color: #00b0ff;
+  --error-button-background-color: #00b0ff;
+  --error-button-color: #000038;
+  --submit-button-border-color: #00b0ff;
+  --submit-button-background-color: #00b0ff;
+  --submit-button-color: #000038;
+  --graph-opacity: 1;
+  --graph-filter: none;
+}

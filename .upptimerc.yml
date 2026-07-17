@@ -1,31 +1,44 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: vanilsonpires # Your GitHub organization or username, where this repository lives
+repo: enok-status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Frontend (app)
+    url: https://enok.techfivex.pt/
+  - name: Gateway API
+    url: https://enok.techfivex.pt/api/actuator/health
+  - name: Keycloak (SSO)
+    url: https://account.techfivex.pt/
+  - name: Novu (Notificações)
+    url: https://sync.techfivex.pt/
+  - name: Enok Service (IA)
+    url: https://enok.techfivex.pt/api/enok-service/actuator/health
+  - name: Chat Service
+    url: https://enok.techfivex.pt/api/chat-service/actuator/health
+  - name: CRM Service
+    url: https://enok.techfivex.pt/api/crm-service/actuator/health
+  - name: Contract Service
+    url: https://enok.techfivex.pt/api/contract-service/actuator/health
+  - name: Integration Service
+    url: https://enok.techfivex.pt/api/integration-service/actuator/health
+  - name: Inventory Service
+    url: https://enok.techfivex.pt/api/inventory-service/actuator/health
+  - name: Sales Service
+    url: https://enok.techfivex.pt/api/sales-service/actuator/health
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.enok.techfivex.pt
+  logoUrl: https://raw.githubusercontent.com/vanilsonpires/enok-status/master/assets/logo.png
+  name: ENOK Status
+  introTitle: "**ENOK** — status da plataforma em tempo real"
+  introMessage: Acompanhe a disponibilidade do ENOK e de todos os seus módulos. Dados atualizados automaticamente via GitHub Actions, sem servidor próprio.
+  theme: dark
+  themeUrl: https://raw.githubusercontent.com/vanilsonpires/enok-status/master/assets/enok-theme.css
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: ENOK
+      href: https://enok.techfivex.pt
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
