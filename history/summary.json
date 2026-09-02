@@ -42,18 +42,20 @@
     "url": "https://account.techfivex.pt/",
     "icon": "https://icons.duckduckgo.com/ip3/enok.techfivex.pt.ico",
     "slug": "account-service",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2301,
-    "timeDay": 2628,
-    "timeWeek": 2402,
-    "timeMonth": 2441,
-    "timeYear": 2301,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 2265,
+    "timeDay": 1523,
+    "timeWeek": 2154,
+    "timeMonth": 2378,
+    "timeYear": 2265,
+    "dailyMinutesDown": {
+      "2026-09-02": 8
+    }
   },
   {
     "name": "Notification Service",
@@ -79,11 +81,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/enok.techfivex.pt.ico",
     "slug": "enok-service",
     "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "74.57%",
-    "uptimeWeek": "96.37%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.45%",
+    "uptime": "99.16%",
+    "uptimeDay": "61.09%",
+    "uptimeWeek": "94.44%",
+    "uptimeMonth": "98.72%",
+    "uptimeYear": "99.16%",
     "time": 1082,
     "timeDay": 1046,
     "timeWeek": 1200,
@@ -91,7 +93,7 @@
     "timeYear": 1082,
     "dailyMinutesDown": {
       "2026-09-01": 284,
-      "2026-09-02": 82
+      "2026-09-02": 276
     }
   },
   {
@@ -100,11 +102,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/enok.techfivex.pt.ico",
     "slug": "chat-service",
     "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "74.70%",
-    "uptimeWeek": "96.39%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.45%",
+    "uptime": "99.16%",
+    "uptimeDay": "61.21%",
+    "uptimeWeek": "94.46%",
+    "uptimeMonth": "98.72%",
+    "uptimeYear": "99.16%",
     "time": 1528,
     "timeDay": 8320,
     "timeWeek": 3905,
@@ -112,7 +114,7 @@
     "timeYear": 1528,
     "dailyMinutesDown": {
       "2026-09-01": 283,
-      "2026-09-02": 82
+      "2026-09-02": 276
     }
   },
   {
@@ -121,11 +123,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/enok.techfivex.pt.ico",
     "slug": "crm-service",
     "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "74.94%",
-    "uptimeWeek": "96.42%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.46%",
+    "uptime": "99.17%",
+    "uptimeDay": "61.45%",
+    "uptimeWeek": "94.49%",
+    "uptimeMonth": "98.73%",
+    "uptimeYear": "99.17%",
     "time": 2458,
     "timeDay": 23281,
     "timeWeek": 9817,
@@ -133,7 +135,7 @@
     "timeYear": 2458,
     "dailyMinutesDown": {
       "2026-09-01": 281,
-      "2026-09-02": 80
+      "2026-09-02": 274
     }
   },
   {
@@ -142,11 +144,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/enok.techfivex.pt.ico",
     "slug": "contract-service",
     "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "75.07%",
-    "uptimeWeek": "96.44%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.46%",
+    "uptime": "99.17%",
+    "uptimeDay": "61.59%",
+    "uptimeWeek": "94.51%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "99.17%",
     "time": 1907,
     "timeDay": 15861,
     "timeWeek": 6923,
@@ -154,7 +156,7 @@
     "timeYear": 1907,
     "dailyMinutesDown": {
       "2026-09-01": 281,
-      "2026-09-02": 78
+      "2026-09-02": 272
     }
   },
   {
@@ -163,11 +165,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/enok.techfivex.pt.ico",
     "slug": "integration-service",
     "status": "down",
-    "uptime": "99.21%",
-    "uptimeDay": "63.27%",
-    "uptimeWeek": "94.75%",
-    "uptimeMonth": "98.79%",
-    "uptimeYear": "99.21%",
+    "uptime": "98.92%",
+    "uptimeDay": "49.78%",
+    "uptimeWeek": "92.83%",
+    "uptimeMonth": "98.35%",
+    "uptimeYear": "98.92%",
     "time": 1882,
     "timeDay": 10608,
     "timeWeek": 5809,
@@ -175,7 +177,7 @@
     "timeYear": 1882,
     "dailyMinutesDown": {
       "2026-09-01": 452,
-      "2026-09-02": 77
+      "2026-09-02": 271
     }
   },
   {
@@ -184,11 +186,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/enok.techfivex.pt.ico",
     "slug": "inventory-service",
     "status": "down",
-    "uptime": "99.21%",
-    "uptimeDay": "63.39%",
-    "uptimeWeek": "94.77%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "99.21%",
+    "uptime": "98.92%",
+    "uptimeDay": "49.91%",
+    "uptimeWeek": "92.84%",
+    "uptimeMonth": "98.35%",
+    "uptimeYear": "98.92%",
     "time": 1119,
     "timeDay": 4024,
     "timeWeek": 2532,
@@ -196,7 +198,7 @@
     "timeYear": 1119,
     "dailyMinutesDown": {
       "2026-09-01": 451,
-      "2026-09-02": 76
+      "2026-09-02": 270
     }
   },
   {
@@ -205,11 +207,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/enok.techfivex.pt.ico",
     "slug": "sales-service",
     "status": "down",
-    "uptime": "99.47%",
-    "uptimeDay": "75.38%",
-    "uptimeWeek": "96.48%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "99.47%",
+    "uptime": "99.18%",
+    "uptimeDay": "61.89%",
+    "uptimeWeek": "94.56%",
+    "uptimeMonth": "98.75%",
+    "uptimeYear": "99.18%",
     "time": 1775,
     "timeDay": 15767,
     "timeWeek": 6801,
@@ -217,7 +219,7 @@
     "timeYear": 1775,
     "dailyMinutesDown": {
       "2026-09-01": 280,
-      "2026-09-02": 75
+      "2026-09-02": 269
     }
   }
 ]
