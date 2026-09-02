@@ -22,19 +22,20 @@
     "url": "https://enok.techfivex.pt/api/actuator/health",
     "icon": "https://icons.duckduckgo.com/ip3/enok.techfivex.pt.ico",
     "slug": "gateway-service",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "79.61%",
-    "uptimeWeek": "97.09%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.56%",
-    "time": 960,
-    "timeDay": 1109,
-    "timeWeek": 1138,
-    "timeMonth": 1088,
-    "timeYear": 960,
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "84.65%",
+    "uptimeWeek": "96.98%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.55%",
+    "time": 950,
+    "timeDay": 884,
+    "timeWeek": 1060,
+    "timeMonth": 1068,
+    "timeYear": 950,
     "dailyMinutesDown": {
-      "2026-09-01": 294
+      "2026-09-01": 294,
+      "2026-09-02": 11
     }
   },
   {
@@ -43,18 +44,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/enok.techfivex.pt.ico",
     "slug": "account-service",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.59%",
+    "uptimeDay": "81.07%",
+    "uptimeWeek": "97.30%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.59%",
     "time": 2265,
     "timeDay": 1523,
     "timeWeek": 2154,
     "timeMonth": 2378,
     "timeYear": 2265,
     "dailyMinutesDown": {
-      "2026-09-02": 8
+      "2026-09-02": 273
     }
   },
   {
@@ -81,11 +82,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/enok.techfivex.pt.ico",
     "slug": "enok-service",
     "status": "down",
-    "uptime": "99.16%",
-    "uptimeDay": "61.09%",
-    "uptimeWeek": "94.44%",
-    "uptimeMonth": "98.72%",
-    "uptimeYear": "99.16%",
+    "uptime": "98.77%",
+    "uptimeDay": "47.84%",
+    "uptimeWeek": "91.81%",
+    "uptimeMonth": "98.12%",
+    "uptimeYear": "98.77%",
     "time": 1082,
     "timeDay": 1046,
     "timeWeek": 1200,
@@ -93,7 +94,7 @@
     "timeYear": 1082,
     "dailyMinutesDown": {
       "2026-09-01": 284,
-      "2026-09-02": 276
+      "2026-09-02": 541
     }
   },
   {
@@ -102,19 +103,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/enok.techfivex.pt.ico",
     "slug": "chat-service",
     "status": "down",
-    "uptime": "99.16%",
-    "uptimeDay": "61.21%",
-    "uptimeWeek": "94.46%",
-    "uptimeMonth": "98.72%",
-    "uptimeYear": "99.16%",
+    "uptime": "98.77%",
+    "uptimeDay": "47.85%",
+    "uptimeWeek": "91.83%",
+    "uptimeMonth": "98.12%",
+    "uptimeYear": "98.77%",
     "time": 1528,
-    "timeDay": 8320,
+    "timeDay": 607,
     "timeWeek": 3905,
     "timeMonth": 1933,
     "timeYear": 1528,
     "dailyMinutesDown": {
       "2026-09-01": 283,
-      "2026-09-02": 276
+      "2026-09-02": 541
     }
   },
   {
@@ -123,19 +124,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/enok.techfivex.pt.ico",
     "slug": "crm-service",
     "status": "down",
-    "uptime": "99.17%",
-    "uptimeDay": "61.45%",
-    "uptimeWeek": "94.49%",
-    "uptimeMonth": "98.73%",
-    "uptimeYear": "99.17%",
+    "uptime": "98.78%",
+    "uptimeDay": "47.97%",
+    "uptimeWeek": "91.87%",
+    "uptimeMonth": "98.13%",
+    "uptimeYear": "98.78%",
     "time": 2458,
-    "timeDay": 23281,
+    "timeDay": 20879,
     "timeWeek": 9817,
     "timeMonth": 3539,
     "timeYear": 2458,
     "dailyMinutesDown": {
       "2026-09-01": 281,
-      "2026-09-02": 274
+      "2026-09-02": 539
     }
   },
   {
@@ -144,19 +145,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/enok.techfivex.pt.ico",
     "slug": "contract-service",
     "status": "down",
-    "uptime": "99.17%",
-    "uptimeDay": "61.59%",
-    "uptimeWeek": "94.51%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "99.17%",
+    "uptime": "98.78%",
+    "uptimeDay": "48.09%",
+    "uptimeWeek": "91.89%",
+    "uptimeMonth": "98.13%",
+    "uptimeYear": "98.78%",
     "time": 1907,
-    "timeDay": 15861,
+    "timeDay": 20786,
     "timeWeek": 6923,
     "timeMonth": 2703,
     "timeYear": 1907,
     "dailyMinutesDown": {
       "2026-09-01": 281,
-      "2026-09-02": 272
+      "2026-09-02": 537
     }
   },
   {
@@ -165,19 +166,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/enok.techfivex.pt.ico",
     "slug": "integration-service",
     "status": "down",
-    "uptime": "98.92%",
-    "uptimeDay": "49.78%",
-    "uptimeWeek": "92.83%",
-    "uptimeMonth": "98.35%",
-    "uptimeYear": "98.92%",
+    "uptime": "98.53%",
+    "uptimeDay": "36.27%",
+    "uptimeWeek": "90.20%",
+    "uptimeMonth": "97.74%",
+    "uptimeYear": "98.53%",
     "time": 1882,
-    "timeDay": 10608,
+    "timeDay": 12651,
     "timeWeek": 5809,
     "timeMonth": 2602,
     "timeYear": 1882,
     "dailyMinutesDown": {
       "2026-09-01": 452,
-      "2026-09-02": 271
+      "2026-09-02": 536
     }
   },
   {
@@ -186,19 +187,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/enok.techfivex.pt.ico",
     "slug": "inventory-service",
     "status": "down",
-    "uptime": "98.92%",
-    "uptimeDay": "49.91%",
-    "uptimeWeek": "92.84%",
-    "uptimeMonth": "98.35%",
-    "uptimeYear": "98.92%",
+    "uptime": "98.53%",
+    "uptimeDay": "36.37%",
+    "uptimeWeek": "90.22%",
+    "uptimeMonth": "97.75%",
+    "uptimeYear": "98.53%",
     "time": 1119,
-    "timeDay": 4024,
+    "timeDay": 4748,
     "timeWeek": 2532,
     "timeMonth": 1471,
     "timeYear": 1119,
     "dailyMinutesDown": {
       "2026-09-01": 451,
-      "2026-09-02": 270
+      "2026-09-02": 535
     }
   },
   {
@@ -207,19 +208,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/enok.techfivex.pt.ico",
     "slug": "sales-service",
     "status": "down",
-    "uptime": "99.18%",
-    "uptimeDay": "61.89%",
-    "uptimeWeek": "94.56%",
-    "uptimeMonth": "98.75%",
-    "uptimeYear": "99.18%",
+    "uptime": "98.79%",
+    "uptimeDay": "48.34%",
+    "uptimeWeek": "91.93%",
+    "uptimeMonth": "98.14%",
+    "uptimeYear": "98.79%",
     "time": 1775,
-    "timeDay": 15767,
+    "timeDay": 20892,
     "timeWeek": 6801,
     "timeMonth": 2548,
     "timeYear": 1775,
     "dailyMinutesDown": {
       "2026-09-01": 280,
-      "2026-09-02": 269
+      "2026-09-02": 534
     }
   }
 ]
