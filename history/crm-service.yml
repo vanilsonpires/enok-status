@@ -1,7 +1,7 @@
 url: https://enok.techfivex.pt/api/crm-service/actuator/health
 status: up
 code: 200
-responseTime: 925
-lastUpdated: 2026-10-01T01:44:27.032Z
+responseTime: 812
+lastUpdated: 2026-10-02T01:56:21.465Z
 startTime: 2026-07-17T18:50:57.436Z
 generator: Upptime <https://github.com/upptime/upptime>
