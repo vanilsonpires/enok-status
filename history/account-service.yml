@@ -1,7 +1,7 @@
 url: https://account.techfivex.pt/
-status: up
-code: 200
-responseTime: 2803
-lastUpdated: 2026-10-07T01:57:50.574Z
+status: down
+code: 503
+responseTime: 1273
+lastUpdated: 2026-10-07T06:38:32.665Z
 startTime: 2026-07-17T19:25:59.221Z
 generator: Upptime <https://github.com/upptime/upptime>
