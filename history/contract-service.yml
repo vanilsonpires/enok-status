@@ -1,7 +1,7 @@
 url: https://enok.techfivex.pt/api/contract-service/actuator/health
-status: up
-code: 200
-responseTime: 1249
-lastUpdated: 2026-11-10T04:27:38.763Z
+status: down
+code: 503
+responseTime: 46597
+lastUpdated: 2026-11-10T16:06:18.922Z
 startTime: 2026-07-17T18:51:00.504Z
 generator: Upptime <https://github.com/upptime/upptime>
