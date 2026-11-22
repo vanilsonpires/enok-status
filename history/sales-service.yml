@@ -1,7 +1,7 @@
 url: https://enok.techfivex.pt/api/sales-service/actuator/health
 status: down
 code: 503
-responseTime: 10025
-lastUpdated: 2026-11-21T04:13:43.613Z
+responseTime: 10012
+lastUpdated: 2026-11-22T03:18:24.606Z
 startTime: 2026-07-17T18:51:07.253Z
 generator: Upptime <https://github.com/upptime/upptime>
